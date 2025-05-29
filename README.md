@@ -43,7 +43,6 @@ We aim to predict whether a customer is likely to purchase a car (`Purchased = 1
 ## 📈 Evaluation Metrics
 
 - **Accuracy**
-- **Confusion Matrix**
 - **Classification Report**
   - Precision
   - Recall
